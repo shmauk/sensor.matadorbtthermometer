@@ -1,0 +1,1 @@
+"""The Matador Bluetooth Meat Thermometer Integration"""

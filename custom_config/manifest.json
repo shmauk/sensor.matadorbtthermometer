@@ -1,0 +1,7 @@
+{
+    "domain": "matador",
+    "name": "Matador Bluetooth Meat Thermometer",
+    "requirements": ["bleak==0.19.5","asyncio==3.4.3"],
+    "iot_class": "assumed_state",
+    "version": "0.0.1"
+}

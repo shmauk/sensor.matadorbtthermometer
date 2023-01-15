@@ -1,0 +1,4 @@
+bleak==0.19.5
+asyncio==3.4.3
+homeassistant
+voluptuous
